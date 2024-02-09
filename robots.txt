@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://botgina.github.io//sitemap.xml
+Sitemap: https://botgina.github.io/sitemap.xml
